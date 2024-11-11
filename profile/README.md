@@ -9,7 +9,7 @@
 
 ## 🪅 팀원
 
-| **👑김현용** | **백수민** | **한정우** | **조예원** |**안성훈** |**강현구** |
+| **김현용** | **백수민** | **한정우** | **조예원** |**안성훈** |**강현구** |
 | :------: |  :------: | :------: | :------: |:------: |:------: |
 | [<img src="https://avatars.githubusercontent.com/gusdydgud" height=90> <br/> @gusdydgud](https://github.com/gusdydgud) | [<img src="https://avatars.githubusercontent.com/Bluemingcloud" height=90> <br/> @Bluemingcloud](https://github.com/Bluemingcloud) | [<img src="https://avatars.githubusercontent.com/groovyplanet" height=90> <br/> @groovyplanet](https://github.com/groovyplanet) | [<img src="https://avatars.githubusercontent.com/yewon31" height=90> <br/> @yewon31](https://github.com/yewon31) |[<img src="https://avatars.githubusercontent.com/shAn-kor" height=90> <br/> @shAn-kor](https://github.com/shAn-kor) |[<img src="https://avatars.githubusercontent.com/Hyeongu02" height=90> <br/> @Hyeongu02](https://github.com/Hyeongu02) |
 
